@@ -21,3 +21,8 @@ Hari ini saya belajar materi dasar git dengan github. (Progress 50%)
 Hari ini saya belajar materi dasar git dengan github. (Progress 93%)
  * Studi kasus kolaborasi dengan tim 
  * Github sebagai portofolio. Tapi di point ini saya mengalami problem yaitu repository profil saya tidak terbaca seperti yang ada dalam tutorial. 
+
+**7 Agustus 2021**  
+Hari ini saya belajar materi dasar git dengan github. (On Progress)
+ * Membuat Portofolio di github dan berhasil ditampilkan hasilnya. Menambahkan fitur static di tampilan Portofolio menggunakan Markup. 
+ * Membaca rangkuman materi github dari pertemuan pertama hingga github sebagai portofolio. 
